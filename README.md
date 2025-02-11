@@ -159,6 +159,4 @@ This project is licensed under the **MIT License**. Check the `LICENSE` file for
 
 Enjoy exploring the world with the Travel App 🌍✨!
 
----
-by sana saleh
 
